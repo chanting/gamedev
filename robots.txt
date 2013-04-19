@@ -1,0 +1,4 @@
+# Disallow indexing of this site until it is finished
+
+User-agent: *
+Disallow: /
