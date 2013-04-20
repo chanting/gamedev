@@ -5,19 +5,22 @@ define( '_MAIN_PHP', '1' );
 // Document root
 define( 'ROOT', $_SERVER['DOCUMENT_ROOT'] . '/' );
 
-// Includes
-define( 'INC', ROOT . 'includes/' );
-
 // Static root
 define( 'S_ROOT', 'http://localhost/' );
 
+// Includes
+define( 'INC', '../includes/' );
+
+// Includes
+define( 'TEMP', '../templates/' );
+
 // CSS files
-define( 'CSS', S_ROOT . 'static/css/' );
+define( 'CSS', 'css/' );
 
 // JavaScript files
-define( 'JS', S_ROOT . 'static/js/' );
+define( 'JS',  'js/' );
 
 // Images
-define( 'IMG', S_ROOT . 'static/images/' );
+define( 'IMG', 'images/' );
 
 ?>
