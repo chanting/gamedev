@@ -1,5 +1,7 @@
 <?php
 
+define( '_MAIN_PHP', '1' );
+
 // Document root
 define( 'ROOT', $_SERVER['DOCUMENT_ROOT'] . '/' );
 
