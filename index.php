@@ -1,9 +1,12 @@
 <?php
 require_once( 'main.php' );
 
-include_once( TEMP . 'head.php' );
+include_once( INC . 'head.php' );
+?>
+<body>
 
-include_once( TEMP . 'header.php' );
+<?php
+include_once( INC . 'header.php' );
 ?>
 
 	<div class="container tm20">
@@ -14,5 +17,5 @@ include_once( TEMP . 'header.php' );
 	</div>
 
 <?php
-include_once( TEMP . 'footer.php' );
+include_once( INC . 'footer.php' );
 ?>

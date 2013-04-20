@@ -1,5 +1,5 @@
 <?php
-// Make sure head.php was included from a parent file
+// Make sure this was included from a parent file
 if ( !defined( '_MAIN_PHP' ) ) {
 	exit;
 }
