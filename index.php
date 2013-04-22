@@ -1,12 +1,12 @@
 <?php
 require_once( 'main.php' );
 
-include_once( INC . 'head.php' );
+include_once( MODEL . 'head.php' );
 ?>
 <body>
 
 <?php
-include_once( INC . 'header.php' );
+include_once( MODEL . 'header.php' );
 ?>
 
 	<div class="container tm20">
@@ -17,5 +17,5 @@ include_once( INC . 'header.php' );
 	</div>
 
 <?php
-include_once( INC . 'footer.php' );
+include_once( MODEL . 'footer.php' );
 ?>
