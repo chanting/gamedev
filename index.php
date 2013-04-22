@@ -17,5 +17,5 @@ include_once( MODEL . 'header.php' );
 	</div>
 
 <?php
-include_once( MODEL . 'footer.php' );
+include_once( MODEL . 'foot.php' );
 ?>
