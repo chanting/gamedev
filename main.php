@@ -6,7 +6,7 @@ define( '_MAIN_PHP', '1' );
 define( 'ROOT', $_SERVER['DOCUMENT_ROOT'] . '/' );
 
 // Includes
-define( 'MODEL', ROOT . 'model/' );
+define( 'MODELS', ROOT . 'models/' );
 
 // Static root
 define( 'S_ROOT', 'http://localhost/' );
